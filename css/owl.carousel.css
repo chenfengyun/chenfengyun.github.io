@@ -1,0 +1,337 @@
+
+/*Owl Carousel*/
+.most_popular_courses .owl-nav{display:none;
+	position:absolute;
+	top:20%;
+	width:100%;	
+}
+.most_popular_courses .owl-nav div{ display:none;
+	font-size:0px;
+	position:absolute;	
+}
+.most_popular_courses .owl-nav .owl-prev{
+	left:-10px; display:none;
+}
+.most_popular_courses .owl-nav .owl-next{
+	right:40px; display:none; 
+}
+.most_popular_courses .owl-nav .owl-prev:before,
+.most_popular_courses .owl-nav .owl-next:before{
+	content:"\f104";
+	font-family:fontawesome;
+	position:absolute;
+	top:-40px;
+	left:0px;
+	width:auto;
+	height:auto;
+	color:#787879;
+	font-size:40px; font-weight:300; display:none; 
+}
+.most_popular_courses .owl-nav .owl-next:before{
+	content:"\f105"; display:none; 
+}
+
+
+@media only screen and (max-width: 700px) {
+.most_popular_courses .owl-nav .owl-prev{
+	left:-14px; display:none; 
+}
+}
+
+  
+
+/*Owl---版权-courses_subject_carousel*/
+.courses_subject_carousel .owl-nav{
+	position:absolute;
+	top:50%;
+	width:100%;
+}
+.courses_subject_carousel .owl-nav div{
+	font-size:0px;
+	position: absolute;
+}
+.courses_subject_carousel .owl-nav .owl-prev{
+	left:-30px;width:40PX;
+	height:40PX;
+}
+.courses_subject_carousel .owl-nav .owl-next{
+	right:12px;width:40PX;
+	height:40PX;
+}
+.courses_subject_carousel .owl-nav .owl-prev:before,
+.courses_subject_carousel .owl-nav .owl-next:before{
+	content:"\f104";
+	font-family:fontawesome;
+	position:absolute; text-align:center;	top:-30px;
+	left:0px;
+	width:40PX;
+	height:40PX;
+	color:#ff9900; line-height:40PX;
+	font-size:40px; font-weight:300;
+}
+.courses_subject_carousel .owl-nav .owl-next:before{
+	content:"\f105";
+	width:40PX;
+	height:40PX;line-height:40PX;
+}
+
+
+
+
+
+
+
+/*Owl testimonial_carousel*/
+.testimonial_carousel .owl-nav{
+	position:absolute;
+	top:36%;
+	width:100%;	
+}
+.testimonial_carousel .owl-nav div{
+	font-size:0px;
+	position:absolute;	
+}
+.testimonial_carousel .owl-nav .owl-prev{
+	left:-10px;
+}
+.testimonial_carousel .owl-nav .owl-next{
+	right:5px;
+}
+.testimonial_carousel .owl-nav .owl-prev:before,
+.testimonial_carousel .owl-nav .owl-next:before{
+	content:"\f104";
+	font-family:fontawesome;
+	position:absolute;
+	top:-40px;
+	left:0px;
+	width:auto;
+	height:auto;
+	color:#787879;
+	font-size:55px; font-weight:300
+}
+.testimonial_carousel .owl-nav .owl-next:before{
+	content:"\f105";
+}
+
+
+
+.owl-carousel {
+  display: none;
+  width: 100%;
+  -webkit-tap-highlight-color: transparent; padding:0px 20px;
+  /* position relative and z-index fix webkit rendering fonts issue */
+  position: relative;
+  z-index: 1; }
+  
+
+  
+  .owl-carousel .owl-stage {
+    position: relative;
+    -ms-touch-action: pan-Y; }
+  .owl-carousel .owl-stage:after {
+    content: ".";
+    display: block;
+    clear: both;
+    visibility: hidden;
+    line-height: 0;
+    height: 0; }
+  .owl-carousel .owl-stage-outer {
+    position: relative;
+    overflow: hidden;
+    /* fix for flashing background */
+    -webkit-transform: translate3d(0px, 0px, 0px); }
+  .owl-carousel .owl-item {
+
+    min-height: 1px;
+    float: left;
+    -webkit-backface-visibility: hidden;
+    -webkit-tap-highlight-color: transparent;
+    -webkit-touch-callout: none; }
+
+	
+	
+  .owl-carousel .owl-nav.disabled,
+  .owl-carousel .owl-dots.disabled {
+    display: none; }
+  .owl-carousel .owl-nav .owl-prev,
+  .owl-carousel .owl-nav .owl-next,
+  .owl-carousel .owl-dot {
+    cursor: pointer;
+    cursor: hand;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+	
+	
+  .owl-carousel.owl-loaded {
+    display: block; }
+  .owl-carousel.owl-loading {
+    opacity: 0;
+    display: block; }
+  .owl-carousel.owl-hidden {
+    opacity: 0; }
+  .owl-carousel.owl-refresh .owl-item {
+    display: none; }
+  .owl-carousel.owl-drag .owl-item {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none; }
+  .owl-carousel.owl-grab {
+    cursor: move;
+    cursor: grab; }
+  .owl-carousel.owl-rtl {
+    direction: rtl; }
+  .owl-carousel.owl-rtl .owl-item {
+    float: right; }
+
+/* No Js */
+.no-js .owl-carousel {
+  display: block; }
+
+/*
+ *  Owl Carousel - Animate Plugin
+ */
+.owl-carousel .animated {
+  -webkit-animation-duration: 1000ms;
+          animation-duration: 1000ms;
+  -webkit-animation-fill-mode: both;
+          animation-fill-mode: both; }
+
+.owl-carousel .owl-animated-in {
+  z-index: 0; }
+
+.owl-carousel .owl-animated-out {
+  z-index: 1; }
+
+.owl-carousel .fadeOut {
+  -webkit-animation-name: fadeOut;
+          animation-name: fadeOut; }
+
+@-webkit-keyframes fadeOut {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0; } }
+
+@keyframes fadeOut {
+  0% {
+    opacity: 1; }
+  100% {
+    opacity: 0; } }
+
+/*
+ * 	Owl Carousel - Auto Height Plugin
+ */
+.owl-height {
+  transition: height 500ms ease-in-out; }
+
+/*
+ * 	Owl Carousel - Lazy Load Plugin
+ */
+.owl-carousel .owl-item .owl-lazy {
+  opacity: 0;
+  transition: opacity 400ms ease; }
+
+.owl-carousel .owl-item img.owl-lazy {
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d; }
+
+/*
+ * 	Owl Carousel - Video Plugin
+ */
+.owl-carousel .owl-video-wrapper {
+  position: relative;
+  height: 100%;
+  background: #000; }
+
+.owl-carousel .owl-video-play-icon {
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  left: 50%;
+  top: 50%;
+  margin-left: -40px;
+  margin-top: -40px;
+  background: url("owl.video.play.png") no-repeat;
+  cursor: pointer;
+  z-index: 1;
+  -webkit-backface-visibility: hidden;
+  transition: -webkit-transform 100ms ease;
+  transition: transform 100ms ease; }
+
+.owl-carousel .owl-video-play-icon:hover {
+  -webkit-transform: scale(1.3, 1.3);
+      -ms-transform: scale(1.3, 1.3);
+          transform: scale(1.3, 1.3); }
+
+.owl-carousel .owl-video-playing .owl-video-tn,
+.owl-carousel .owl-video-playing .owl-video-play-icon {
+  display: none; }
+
+.owl-carousel .owl-video-tn {
+  opacity: 0;
+  height: 100%;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  transition: opacity 400ms ease; }
+
+.owl-carousel .owl-video-frame {
+  position: relative;
+  z-index: 1;
+  height: 100%;
+  width: 100%; }
+
+
+
+
+
+
+
+
+
+
+
+ /*-----------服务推荐------------*/
+ 
+.ser_box{ max-width:1280px; margin:0 auto; padding:0px;overflow:hidden;}
+
+.sy_ser_box{ max-width:240px; width:94%;padding:0px; margin:0 auto; margin-top:10px;margin-bottom:10px;transition: 0.3s;-moz-transition: 0.3s;-webkit-transition: 0.3s; background:#fff; min-height:240px; border-radius:5px;box-shadow:0 0 20px 1px rgba(0,0,0,.1)}
+.sy_ser_box dl{margin:0; padding:0px;padding:30px 20px; text-align:center; min-height:330px}
+.sy_ser_box dl dt{ margin:0px; padding:0px; color:#222; margin-bottom:5px}
+.sy_ser_box dl dd{ margin:0px; padding:0px; font-size:14px;line-height:24px; overflow:hidden;color:#666}
+.sy_ser_box dl dt h3{ margin:0px; padding:0px; font-size:18px; font-weight:bold; line-height:24px; margin-bottom:5px;}
+
+ .sy_ser_box dl dt img{ width:80px; height:80px;border-radius:50px;}
+ @media only screen and (max-width:700px) {
+ .sy_ser_box{ max-width:100%; width:94%;}
+ .sy_ser_box dl dd{ margin:0px; padding:0px; font-size:12px;line-height:22px;}
+ .sy_ser_box dl dt h3{ margin:0px; padding:0px; font-size:16px; }
+ .sy_ser_box dl{margin:0; padding:0px;padding:20px 10px; }
+ }
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+

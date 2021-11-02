@@ -1,0 +1,447 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.me/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://hbzehaijx.com/?gclid=EAIaIQobChMI-fX_peb48wIVk2SLCh3AbQgwEAMYAyAAEgLAC_D_BwE",
+            "path": "index.html",
+            "saved": true,
+            "size": 13589,
+            "children": [
+                {
+                    "url": "https://hbzehaijx.com/images/logo.png",
+                    "path": "img/logo.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/i_i1.png",
+                    "path": "img/i_i1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/i_i2.png",
+                    "path": "img/i_i2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/i_i3.png",
+                    "path": "img/i_i3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/i_i4.png",
+                    "path": "img/i_i4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/i_i5.png",
+                    "path": "img/i_i5.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/i_i6.png",
+                    "path": "img/i_i6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/yt_ys.png",
+                    "path": "img/yt_ys.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/dpt.png",
+                    "path": "img/dpt.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/ystu1.png",
+                    "path": "img/ystu1.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/ystu2.png",
+                    "path": "img/ystu2.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/2.jpg",
+                    "path": "img/2.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/1.jpg",
+                    "path": "img/1.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/3.png",
+                    "path": "img/3.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/4.jpg",
+                    "path": "img/4.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/7.jpg",
+                    "path": "img/7.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/8.jpg",
+                    "path": "img/8.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/ystu6.png",
+                    "path": "img/ystu6.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/6.jpg",
+                    "path": "img/6.jpeg",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/js/jquery-1.11.1.min.js",
+                    "path": "js/jquery-1.11.1.min.js",
+                    "saved": true,
+                    "size": 95786,
+                    "children": []
+                },
+                {
+                    "url": "https://www.googletagmanager.com/gtag/js?id=G-BC164ZW9PX",
+                    "saved": false
+                },
+                {
+                    "url": "https://hbzehaijx.com/td/js/jquery.min.js",
+                    "path": "js/jquery.min.js",
+                    "saved": true,
+                    "size": 95931,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/td/js/owl.carousel.js",
+                    "path": "js/owl.carousel.js",
+                    "saved": true,
+                    "size": 79152,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/ser/js/custom.js",
+                    "path": "js/custom.js",
+                    "saved": true,
+                    "size": 1639,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/js/wow.min.js",
+                    "path": "js/wow.min.js",
+                    "saved": true,
+                    "size": 8415,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/font-awesome.css",
+                    "path": "css/font-awesome.css",
+                    "saved": true,
+                    "size": 39492,
+                    "children": [
+                        {
+                            "url": "https://hbzehaijx.com/fonts/fontawesome-webfont.eot?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/fonts/fontawesome-webfont.eot?#iefix&v=4.7.0",
+                            "path": "fonts/fontawesome-webfont_1.eot",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/fonts/fontawesome-webfont.woff2?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff2",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/fonts/fontawesome-webfont.woff?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.woff",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/fonts/fontawesome-webfont.ttf?v=4.7.0",
+                            "path": "fonts/fontawesome-webfont.ttf",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular",
+                            "path": "img/fontawesome-webfont.svg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/reset.css",
+                    "path": "css/reset.css",
+                    "saved": true,
+                    "size": 4248,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/animate.css",
+                    "path": "css/animate.css",
+                    "saved": true,
+                    "size": 72922,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/dh.css",
+                    "path": "css/dh.css",
+                    "saved": true,
+                    "size": 105246,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/index.css",
+                    "path": "css/index.css",
+                    "saved": true,
+                    "size": 45109,
+                    "children": [
+                        {
+                            "url": "https://hbzehaijx.com/images/index-bg1.png",
+                            "path": "img/index-bg1.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/index-bg2.png",
+                            "path": "img/index-bg2.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/hero.png",
+                            "path": "img/hero.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/partner-shape.png",
+                            "path": "img/partner-shape.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/pricing-shape.png",
+                            "path": "img/pricing-shape.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/map-bg.png",
+                            "path": "img/map-bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/yt.png",
+                            "path": "img/yt.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/img-1.jpg",
+                            "path": "img/img-1.jpg",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/bt_line.png",
+                            "path": "img/bt_line.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/nr_bg.png",
+                            "path": "img/nr_bg.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        },
+                        {
+                            "url": "https://hbzehaijx.com/images/up.png",
+                            "path": "img/up.png",
+                            "saved": true,
+                            "size": 0,
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/bootstrap.min.css",
+                    "path": "css/bootstrap.min.css",
+                    "saved": true,
+                    "size": 153399,
+                    "children": []
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/owl.carousel.min.css",
+                    "path": "css/owl.carousel.min.css",
+                    "saved": true,
+                    "size": 1174,
+                    "children": [
+                        {
+                            "url": "https://hbzehaijx.com/css/grabbing.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://hbzehaijx.com/css/owl.theme.min.css",
+                    "path": "css/owl.theme.min.css",
+                    "saved": true,
+                    "size": 3068,
+                    "children": [
+                        {
+                            "url": "https://hbzehaijx.com/css/AjaxLoader.gif",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://hbzehaijx.com/ser/css/owl.carousel.css",
+                    "path": "css/owl.carousel.css",
+                    "saved": true,
+                    "size": 7597,
+                    "children": [
+                        {
+                            "url": "https://hbzehaijx.com/ser/css/owl.video.play.png",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://hbzehaijx.com/images/favicon.ico",
+                    "path": "favicon.ico",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "hbzehaijx-com-8llptdr",
+    "info": {
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "accept-encoding": "gzip",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://hbzehaijx.com/ser/css/owl.carousel.css",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.me/"
+            }
+        },
+        "response": {
+            "redirects": [],
+            "responseUrl": "https://hbzehaijx.com/?gclid=EAIaIQobChMI-fX_peb48wIVk2SLCh3AbQgwEAMYAyAAEgLAC_D_BwE",
+            "statusCode": 200,
+            "headers": {
+                "server": "nginx",
+                "date": "Tue, 02 Nov 2021 04:05:12 GMT",
+                "content-type": "text/html",
+                "last-modified": "Thu, 14 Oct 2021 08:04:38 GMT",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "vary": "Accept-Encoding",
+                "etag": "W/\"6167e496-4330\"",
+                "strict-transport-security": "max-age=31536000"
+            }
+        },
+        "time": {
+            "start": "2021-11-02T04:05:12.191Z",
+            "end": "2021-11-02T04:05:19.644Z"
+        },
+        "remark": [],
+        "ip": "34.92.7.215",
+        "url": "https://hbzehaijx.com/?gclid=EAIaIQobChMI-fX_peb48wIVk2SLCh3AbQgwEAMYAyAAEgLAC_D_BwE",
+        "main": "index.html",
+        "domain": "hbzehaijx.com",
+        "origin": "https://hbzehaijx.com",
+        "totalSize": "727 kB"
+    },
+    "options": {
+        "formatter": [],
+        "url": "https://hbzehaijx.com/?gclid=EAIaIQobChMI-fX_peb48wIVk2SLCh3AbQgwEAMYAyAAEgLAC_D_BwE",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "filenameGenerator": "byType"
+    }
+}
